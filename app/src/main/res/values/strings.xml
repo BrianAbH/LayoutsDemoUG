@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">trabajoColaborativo</string>
+    <string name="txt_titulo">Layout Ejemplo</string>
+
+    //Botones
+    <string name="btnFrg">Abrir Frame Layout</string>
+    <string name="btnTable">Abrir Table Layout</string>
+    <string name="btnR">Abrir Relative Layout</string>
+    <string name="btnC">Abrir ConstraintLayout</string>
+    <string name="btnGri">Abrir GridLayout</string>
+
+    //Imagen
+    <string name="txtSobre">Titulo sobre imagen</string>
+    <string name="txtImagen">Imagen de fondo Android</string>
+
+    //TableString
+    <string name="txtTituloF">Registro de usuario</string>
+    <string name="txtUsuario">Usuario:</string>
+    <string name="hUsuario">Ingrese usuario</string>
+    <string name="txtCorreo">Correo:</string>
+    <string name="hCorreo">email@dominio.com</string>
+    <string name="txtPass">Clave:</string>
+    <string name="hPass">Ingrese contraseña</string>
+    <string name="btnGuardar">Guardar</string>
+
+    //RelativeString
+    <string name="txtLogo">Logo de la Universidad</string>
+    <string name="txtUniversidad">Universidad de Guayaquil</string>
+    <string name="txtCarrera">Carrera de Software</string>
+    <string name="btnGuardarR">Continuar</string>
+
+    //ConstraintString
+    <string name="txtF">Formulario de Usuario</string>
+    <string name="txtFN">Ingrese su nombre</string>
+    <string name="txtFC">Ingrese su correo</string>
+    <string name="btnF">Guardar</string>
+
+    //GridString
+    <string name="txtMenu">Menu principal</string>
+    <string name="btnU">Usuarios</string>
+    <string name="btnP">Productos</string>
+    <string name="btnRe">Reportes</string>
+    <string name="btnConf">Configuracion</string>
+</resources>
